@@ -1,0 +1,39 @@
+body{
+    background-image: url('./img/backgroundimage.jpg') ;
+    background-repeat: repeat;
+    background-size: auto;
+}
+
+ .heading{
+
+    margin-top: 3.5em;
+    font-size: 3em;
+    color:#28a745;
+    text-align: center;     
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+} 
+.tagline{
+    
+    color:white;
+    text-align: center;   
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+}
+.input-group-prop{
+    width: 50%;
+    margin: auto;
+}
+.box{
+    border : 1px solid black ;
+    margin : 1em 0em;
+}
+.para{
+    font-weight: bold;
+}
+
+.badges{
+    font-size: 1em;
+    margin: .25em .5em;
+}
+a{
+    margin-left: 35%;
+}
